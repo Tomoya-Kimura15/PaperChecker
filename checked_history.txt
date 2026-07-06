@@ -1,8 +1,3 @@
-https://www.science.org/doi/abs/10.1126/science.aec9708?af=R
-https://www.science.org/doi/abs/10.1126/science.aed9192?af=R
-https://www.science.org/doi/abs/10.1126/science.aee3321?af=R
-https://www.science.org/doi/abs/10.1126/science.aed0434?af=R
-https://www.science.org/doi/abs/10.1126/science.aec6413?af=R
 https://www.science.org/doi/abs/10.1126/science.aei2039?af=R
 https://www.science.org/doi/abs/10.1126/science.aei2040?af=R
 https://www.science.org/doi/abs/10.1126/science.aeg5991?af=R
@@ -4998,3 +4993,8 @@ https://www.nature.com/articles/s41598-026-60708-2
 https://www.nature.com/articles/s41598-026-60373-5
 https://www.nature.com/articles/s41598-026-57362-z
 https://www.nature.com/articles/s41598-026-54658-y
+https://www.nature.com/articles/s41598-026-60020-z
+https://www.nature.com/articles/s41598-026-61040-5
+https://www.nature.com/articles/s41598-026-60306-2
+https://www.nature.com/articles/s41598-026-59914-9
+https://www.nature.com/articles/s41598-026-51249-9
